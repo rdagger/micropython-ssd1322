@@ -1,5 +1,5 @@
 # MicroPython Display Driver for SSD1322 Grayscale OLED
-The library supports drawing lines, shapes, text, sprites and images.  All code is documented and there are demo examples.
+The library supports drawing lines, shapes, text, sprites and images.  All code is documented and there are demo examples.  Tested on 5.5 inch green OLED display SPI module with 256x64 resolution.
 
 Sample XGLCD fonts are included in the fonts folder.  Additional fonts can generated from TTF fonts using a free utility called MikroElektronika [GLCD Font Creator](https://www.mikroe.com/glcd-font-creator).
 
