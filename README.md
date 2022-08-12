@@ -28,3 +28,9 @@ demo_qr.py example draws a QR code which is readable by phones, tablets and webc
 
 ![QR Code](https://user-images.githubusercontent.com/106355/184423549-ce90bbda-57bd-4ea9-b697-d8067ce0c18d.JPG)
 
+
+demo_shapes.py example:
+
+![Shapes](https://user-images.githubusercontent.com/106355/184427925-70d99f23-e648-4cd6-973a-81b0ab498f93.JPG)
+
+
