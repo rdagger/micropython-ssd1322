@@ -1,0 +1,6 @@
+.flake8
+.ftpconfig
+.pylintrc
+.vscode/
+micropy.json
+pico-go.json
