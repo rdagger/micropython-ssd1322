@@ -33,4 +33,8 @@ demo_shapes.py example:
 
 ![Shapes](https://user-images.githubusercontent.com/106355/184427925-70d99f23-e648-4cd6-973a-81b0ab498f93.JPG)
 
+There's a project on my website [Rototron](https://www.rototron.info/projects/sms-display/) that utilizes the SSD1322 library.  Alternatively, click the picture below for the project YouTube video:
+
+[![SSD1322 Project](https://i.ytimg.com/vi/vhel6iFT4t8/maxresdefault.jpg)](https://www.youtube.com/watch?v=vhel6iFT4t8)
+
 
